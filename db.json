@@ -1,7 +1,8 @@
 {
 	"expires_at": 1572955200,
 	"key": "active_campaign",
-	"value": [{
+	"value": [
+		{
 			"product_id": "com.sillens.iShape.1a.v3",
 			"discount_id": "1RenewalSmall",
 			"popular": false
