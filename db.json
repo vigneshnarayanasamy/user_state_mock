@@ -1,16 +1,26 @@
 {
-	"expires_at": 1572955200,
-	"key": "active_campaign",
-	"value": [
-		{
-			"product_id": "com.sillens.iShape.1a.v3",
-			"discount_id": "1RenewalSmall",
-			"popular": false
-		},
-		{
-			"product_id": "com.sillens.iShape.tier22.3month",
-			"discount_id": "3RenewalSmall",
-			"popular": false
-		}
-	]
+  "expires_at": 1572955200,
+  "key": "active_campaign",
+  "value": [
+    {
+      "product_id": "com.sillens.iShape.1a.v3",
+      "discount_id": "1RenewalSmall",
+      "popular": false
+    },
+    {
+      "product_id": "com.sillens.iShape.tier22.3month",
+      "discount_id": "3RenewalSmall",
+      "popular": false
+    },
+    {
+      "product_id": "com.sillens.iShape.6a.v3.offer",
+      "discount_id": "6RenewalSmall",
+      "popular": false
+    },
+    {
+      "product_id": "com.sillens.iShape.tier45.12month",
+      "discount_id": "12RenewalSmall",
+      "popular": true
+    }
+  ]
 }
