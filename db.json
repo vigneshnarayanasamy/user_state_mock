@@ -1,4 +1,4 @@
-[{
+{
 	"expires_at": 1572955200,
 	"key": "active_campaign",
 	"value": [{
@@ -22,4 +22,4 @@
 			"popular": true
 		}
 	]
-}]
+}
